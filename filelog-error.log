@@ -1,0 +1,80 @@
+{"message":"Genre.select is not a function","level":"error","timestamp":"2021-05-31T16:53:31.956Z"}
+{"message":"something went wrong miserably","level":"error","timestamp":"2021-05-31T16:54:00.368Z"}
+{"message":"Genre.select is not a function","level":"error","timestamp":"2021-05-31T17:03:28.255Z"}
+{"message":"Genre.select is not a function","level":"error","timestamp":"2021-05-31T17:03:41.076Z"}
+{"message":"Genre.select is not a function","level":"error","timestamp":"2021-05-31T17:03:58.721Z"}
+{"message":"Movie validation failed: title: Path `title` (`orange is the new black`) is longer than the maximum allowed length (20).","level":"error","timestamp":"2021-05-31T17:12:02.515Z"}
+{"message":"Movie validation failed: title: Path `title` (`orange is the new black`) is longer than the maximum allowed length (20).","level":"error","timestamp":"2021-05-31T17:12:21.372Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-02T07:01:49.367Z"}
+{"message":"Genre validation failed: name: Path `name` (`ora`) is shorter than the minimum allowed length (5).","level":"error","timestamp":"2021-06-02T16:57:24.475Z"}
+{"message":"Genre validation failed: name: Path `name` (`ordf`) is shorter than the minimum allowed length (5).","level":"error","timestamp":"2021-06-02T17:01:11.597Z"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","level":"error","timestamp":"2021-06-02T17:10:24.394Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:25:49.435Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:27:47.665Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:28:20.779Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:30:14.293Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:31:01.983Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:31:37.005Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:31:47.575Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:32:47.743Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","level":"error","timestamp":"2021-06-03T08:33:02.251Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Customer\"","level":"error","timestamp":"2021-06-03T16:15:44.720Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Customer\"","level":"error","timestamp":"2021-06-03T16:17:04.624Z"}
+{"message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Customer\"","level":"error","timestamp":"2021-06-03T16:56:23.996Z"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2021-06-03T20:48:45.428Z"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2021-06-03T20:48:45.761Z"}
+{"message":"(intermediate value).now is not a function","level":"error","timestamp":"2021-06-03T20:50:41.644Z"}
+{"message":"Date.now is not a constructor","level":"error","timestamp":"2021-06-03T20:50:57.303Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:06:01.877Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:06:01.963Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:06:02.052Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:13:29.959Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:13:30.022Z"}
+{"message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" (type number) at path \"rentalFee\"","level":"error","timestamp":"2021-06-03T21:13:30.081Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:48:45.256Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:48:45.297Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:48:45.340Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:48:45.376Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:49:14.523Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:49:14.565Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:49:14.609Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:00.087Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:00.132Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:00.186Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:00.232Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:34.442Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:34.484Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:34.534Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:57:34.576Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:58:00.727Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:58:00.774Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:58:00.828Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:58:00.870Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:59:38.110Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:59:38.166Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:59:38.225Z"}
+{"message":"movieId is not defined","level":"error","timestamp":"2021-06-04T06:59:38.277Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:11.594Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:11.711Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:11.870Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:11.988Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:12.106Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:12.208Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:12.351Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:12.435Z"}
+{"message":"Joi is not defined","level":"error","timestamp":"2021-06-04T07:36:12.543Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:45:31.118Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:45:31.237Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:45:31.406Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:45:31.493Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:45:31.583Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:30.060Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:30.205Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:30.401Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:30.571Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:30.785Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.429Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.526Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.635Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.762Z"}
+{"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.890Z"}
