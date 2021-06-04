@@ -9,7 +9,7 @@ require("./startup/db")();
 require("./startup/validation")();
 require("./startup/prod")(app);
 
-const server = app.listen(3000, (req, res) => {
+const server = app.listen(process.env.PORT || 3000, (req, res) => {
   logger.info("Listening on server 3000...");
 });
 
