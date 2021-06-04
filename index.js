@@ -9,8 +9,10 @@ require("./startup/db")();
 require("./startup/validation")();
 require("./startup/prod")(app);
 
-const server = app.listen(process.env.PORT || 3000, (req, res) => {
-  logger.info("Listening on server 3000...");
+const port = process.env.PORT || 3000;
+
+const server = app.listen(port, (req, res) => {
+  logger.info("Listening on port " + port);
 });
 
 module.exports = server;
