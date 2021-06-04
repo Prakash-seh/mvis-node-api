@@ -5,7 +5,7 @@ const logger = require("../middleware/logger");
 module.exports = function () {
   mongoose
     .connect(
-      "mongodb+srv://mvis_user:Qwerty@123@mvis-node-api-cluster.7smzb.mongodb.net/users?retryWrites=true&w=majority",
+      "mongodb+srv://mvis_user:Qwerty@123@mvis-node-api-cluster.7smzb.mongodb.net/mvis",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
