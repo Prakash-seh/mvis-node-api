@@ -78,3 +78,17 @@
 {"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.635Z"}
 {"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.762Z"}
 {"message":"rental.return is not a function","level":"error","timestamp":"2021-06-04T07:46:40.890Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"../views/index\"","level":"error","timestamp":"2021-06-18T14:38:27.053Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:39:36.763Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:40:17.094Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:41:09.846Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:46:20.099Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"../views/index\"","level":"error","timestamp":"2021-06-18T14:48:31.059Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"../views/index.pug\"","level":"error","timestamp":"2021-06-18T14:48:54.664Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:49:31.890Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"./views\"","level":"error","timestamp":"2021-06-18T14:54:05.251Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"./views\"","level":"error","timestamp":"2021-06-18T14:54:28.323Z"}
+{"message":"Failed to lookup view \"./index\" in views directory \"./views\"","level":"error","timestamp":"2021-06-18T14:58:43.934Z"}
+{"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:59:10.841Z"}
+{"message":"No default engine was specified and no extension was provided.","level":"error","timestamp":"2021-06-18T15:00:36.191Z"}
+{"message":"D:\\Workstation\\Node\\mvis\\mvis-api\\views\\index.pug:7:1\n    5|         div \n    6|             table(style='width:100%', border='1')\n  > 7|   tr\n-------^\n    8|     th Id\n    9|     th Name\n    10|     th Age\n\nInconsistent indentation. Expecting either 0 or 4 spaces/tabs.","level":"error","timestamp":"2021-06-18T15:09:57.558Z"}

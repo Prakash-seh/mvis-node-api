@@ -1,0 +1,160 @@
+html
+    head
+        title= title
+    body
+        h2(style="margin: 20 0")= "List of all routes"
+        div(style="margin: 0 250" font-family= "monospace")
+            div.class(name="genres")
+            h3= "Genres"
+            table(style='width:100%', border= "1")
+                tr
+                    th Route Name
+                    th URL
+                    th HTTP Verb
+                    th Description
+                tr
+                    td Index
+                    td /genres
+                    td GET
+                    td Display list of all genres
+                tr
+                    td Create
+                    td /genres
+                    td POST
+                    td Add new genre to database
+                tr
+                    td Show
+                    td /genres/:id
+                    td GET
+                    td Show info about a particular genre
+                tr
+                    td Update
+                    td /genres/:id
+                    td PUT
+                    td Update a particular genre
+                tr
+                    td Destroy
+                    td /genres/:id
+                    td DELETE
+                    td Delete a particular genre
+                
+            div.class(name="movies")
+                h3= "Movies"
+                table(style='width:100%', border='1')
+                    tr
+                        th Route Name
+                        th URL
+                        th HTTP Verb
+                        th Description
+                    tr
+                        td Index
+                        td /movies
+                        td GET
+                        td Display list of all movies
+                    tr
+                        td Create
+                        td /movies
+                        td POST
+                        td Add new movie to database
+                    tr
+                        td Show
+                        td /movies/:id
+                        td GET
+                        td Show info about a particular movie
+                    tr
+                        td Update
+                        td /movies/:id
+                        td PUT
+                        td Update a particular movie
+                    tr
+                        td Destroy
+                        td /movies/:id
+                        td DELETE
+                        td Delete a particular movie
+                    
+            div.class(name="customers")
+                h3= "Customers"
+                table(style='width:100%', border='1')
+                    tr
+                        th Route Name
+                        th URL
+                        th HTTP Verb
+                        th Description
+                    tr
+                        td Index
+                        td /customers
+                        td GET
+                        td Display list of all customers
+                    tr
+                        td Create
+                        td /customers
+                        td POST
+                        td Add new customer to database
+                    tr
+                        td Show
+                        td /customers/:id
+                        td GET
+                        td Show info about a particular customer
+                    tr
+                        td Update
+                        td /customers/:id
+                        td PUT
+                        td Update a particular customer
+                    tr
+                        td Destroy
+                        td /customers/:id
+                        td DELETE
+                        td Delete a particular customer
+                        
+            div.class(name="rentals")
+                h3= "Rentals"
+                table(style='width:100%', border='1')
+                    tr
+                        th Route Name
+                        th URL
+                        th HTTP Verb
+                        th Description
+                    tr
+                        td Index
+                        td /rentals
+                        td GET
+                        td Display list of all rentals
+                    tr
+                        td Create
+                        td /rentals
+                        td POST
+                        td Add new rental to database
+                    
+            div.class(name="auth")
+                h3= "Login/Autheticate a user"
+                table(style='width:100%', border='1')
+                    tr
+                        th Route Name
+                        th URL
+                        th HTTP Verb
+                        th Description
+                    tr
+                        td Create
+                        td /auth
+                        td POST
+                        td Autheticate a particular user based on given email and password, returns a generated jwt
+                    
+            div.class(name="users")
+                h3= "Register a user"
+                table(style='width:100%', border='1')
+                    tr
+                        th Route Name
+                        th URL
+                        th HTTP Verb
+                        th Description
+                    tr
+                        td Create
+                        td /users
+                        td POST
+                        td Create a user based on given username, email and password, returns a generated jwt
+                    tr
+                        td Index
+                        td /me
+                        td GET
+                        td Display the profile of a logged in user
+                    
