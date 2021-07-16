@@ -11,8 +11,7 @@ require("./startup/db")();
 require("./startup/validation")();
 require("./startup/prod")(app);
 
-const port = 3000;
-// const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
 
 const server = app.listen(port, (req, res) => {
   logger.info("Listening on port " + port);
