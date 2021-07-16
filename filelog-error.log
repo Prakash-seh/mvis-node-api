@@ -92,3 +92,4 @@
 {"message":"Failed to lookup view \"index\" in views directory \"D:\\Workstation\\Node\\mvis\\mvis-api\\views\"","level":"error","timestamp":"2021-06-18T14:59:10.841Z"}
 {"message":"No default engine was specified and no extension was provided.","level":"error","timestamp":"2021-06-18T15:00:36.191Z"}
 {"message":"D:\\Workstation\\Node\\mvis\\mvis-api\\views\\index.pug:7:1\n    5|         div \n    6|             table(style='width:100%', border='1')\n  > 7|   tr\n-------^\n    8|     th Id\n    9|     th Name\n    10|     th Age\n\nInconsistent indentation. Expecting either 0 or 4 spaces/tabs.","level":"error","timestamp":"2021-06-18T15:09:57.558Z"}
+{"message":"listen EADDRINUSE: address already in use :::5000","level":"error","timestamp":"2021-07-16T18:46:14.866Z"}

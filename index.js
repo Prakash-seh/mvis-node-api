@@ -5,6 +5,7 @@ const logger = require("./middleware/logger");
 
 require("./startup/engine")(app);
 require("./startup/logging")();
+require("./startup/cors")(app);
 require("./startup/routes")(app);
 require("./startup/db")();
 require("./startup/validation")();
